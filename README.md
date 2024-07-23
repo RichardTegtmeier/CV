@@ -1,5 +1,5 @@
 ## Richard Tegtmeier
-Cornell University Plant Breeding and Genetics
+Cornell University Plant Breeding and Genetics \n
 Cornell AgriTech | Barton Lab | 15 Castle Creek Dr. | Geneva, NY 14456
 Email: rrt48@cornell.edu                                                                      
 Phone: (+1) 914-649-2007  
