@@ -1,21 +1,18 @@
 ### Richard Tegtmeier
-Cornell University Plant Breeding and Genetics
+Cornell University Plant Breeding and Genetics  
+Cornell AgriTech | Barton Lab | 15 Castle Creek Dr. | Geneva, NY 14456  
 
-Cornell AgriTech | Barton Lab | 15 Castle Creek Dr. | Geneva, NY 14456
-
-**Email**: rrt48@cornell.edu   
-
-**Phone**: (+1) 914-649-2007
+**Email**: rrt48@cornell.edu  
+**Phone**: (+1) 914-649-2007  
 
 ## Academic Experience
-2019-Present  Ph.D. Cornell University Plant Breeding, minor Plant Pathology (GPA: 3.70)
-2015-2019	    B.S. Salve Regina University Biology, minor Music (GPA: 3.63)
+2019-Present  Ph.D. Cornell University Plant Breeding, minor Plant Pathology (GPA: 3.70)  
+2015-2019	    B.S. Salve Regina University Biology, minor Music (GPA: 3.63)  
 
-
-## Awards and Distinctions:
-2024	          Nation Association of Plant Breeders - Borlaug Scholar Award
-2023	          Cornell Plant Breeding and Genetics - Murphy Munger Award ($500 awarded)
-2023	          USDA NIFA Predoctoral Fellowship ($120,000 awarded; 2 years funding)
+## Awards and Distinctions
+2024	          Nation Association of Plant Breeders - Borlaug Scholar Award  
+2023	          Cornell Plant Breeding and Genetics - Murphy Munger Award ($500 awarded)  
+2023	          USDA NIFA Predoctoral Fellowship ($120,000 awarded; 2 years funding)  
 2021            NAPB Poster Competition Winner (2nd of 50 PhD students, $250 awarded)
 2020            Cornell Schmittau-Novak Collaborative Grant Funding ($10,000 awarded)
 2019            Science Research Award, Salve Regina University Department of Biology
