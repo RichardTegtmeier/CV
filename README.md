@@ -1,14 +1,11 @@
-# Richard Tegtmeier
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+## Richard Tegtmeier
+# Cornell University Plant Breeding and Genetics
+# Cornell AgriTech | Barton Lab | 15 Castle Creek Dr. | Geneva, NY 14456
+# Email: rrt48@cornell.edu                                                                      Phone: (+1) 914-649-2007  
 
-## Summary
-1-2 sentences summarizing your professional experience and expertise
-
-## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+# Academic Experience
+2019-Present  Ph.D. Cornell University Plant Breeding, minor Plant Pathology (GPA: 3.70)
+2015-2019	    B.S. Salve Regina University Biology, minor Music (GPA: 3.63)
 
 ## Experience
 **Company Name** (Dates)   
