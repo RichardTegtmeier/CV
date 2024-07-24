@@ -3,7 +3,7 @@ For more information, you can view my [full CV](CV%20Richard%20Tegtmeier%20(2).p
 
 ## Academic Experience
 Ph.D. Cornell University Plant Breeding, minor Plant Pathology (GPA: 3.70)
-*Expected Graduation: Early 2025*
+*Expected Graduation: Early 2025*  
 B.S. Salve Regina University Biology, minor Music (GPA: 3.63)  
 
 ## Skills
