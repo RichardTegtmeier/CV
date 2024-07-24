@@ -34,4 +34,4 @@ Project Mentor for 3 Cornell Summer Scholar Undergraduate Researchers
 *My 2022 Summer Scholar mentee has started a PhD in the Cornell Plant Breeding and Genetics section in Lance Caddle-Davidson’s lab*  
 
 ## Publications:
-[Check out my google scholar] (https://scholar.google.com/citations?user=vBx99YgAAAAJ&hl=en)
+Check out my [Google Scholar](https://scholar.google.com/citations?user=vBx99YgAAAAJ&hl=en)
