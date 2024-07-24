@@ -1,5 +1,8 @@
 ## CV Highlights
-For more information, you can view my [full CV](CV%20Richard%20Tegtmeier%20(2).pdf)
+For more information, you can view my [full CV](CV%20Richard%20Tegtmeier%20(2).pdf)  
+
+**Email** - rrt48@cornell.edu  
+**Phone** - (+1) 914-649-2007  
 
 ## Academic Experience
 Ph.D. Cornell University Plant Breeding, minor Plant Pathology (GPA: 3.70)  
