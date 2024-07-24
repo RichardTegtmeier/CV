@@ -1,4 +1,4 @@
-You can view my full CV [here](CV/CV%20Richard%20Tegtmeier%20(2).pdf)
+You can view my full CV [here](CV%20Richard%20Tegtmeier%20(2).pdf)
 
 ### Richard Tegtmeier
 Cornell University Plant Breeding and Genetics  
