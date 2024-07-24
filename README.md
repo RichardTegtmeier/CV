@@ -1,17 +1,10 @@
-You can view my full CV [here](CV%20Richard%20Tegtmeier%20(2).pdf)
-
-### Richard Tegtmeier
-Cornell University Plant Breeding and Genetics  
-Cornell AgriTech | Barton Lab | 15 Castle Creek Dr. | Geneva, NY 14456  
-
-**Email**: rrt48@cornell.edu  
-**Phone**: (+1) 914-649-2007  
+## CV Highlights
+For more information, you can view my [full CV](CV%20Richard%20Tegtmeier%20(2).pdf)
 
 ## Academic Experience
-2019-Present  Ph.D. Cornell University Plant Breeding, minor Plant Pathology (GPA: 3.70)  
-2015-2019	    B.S. Salve Regina University Biology, minor Music (GPA: 3.63)  
-
-## CV Highlights
+Ph.D. Cornell University Plant Breeding, minor Plant Pathology (GPA: 3.70)
+*Expected Graduation: Early 2025*
+B.S. Salve Regina University Biology, minor Music (GPA: 3.63)  
 
 ## Skills
   **Programming** - R | Python | Unix | LaTeX | Git | Conda Env. Management | Reproducible Analysis  
