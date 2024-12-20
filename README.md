@@ -21,7 +21,7 @@ B.S. Salve Regina University Biology, minor: Music (GPA: 3.63)
 ## Skills
   **Programming** - R | Python | Bash/Shell | LaTeX | Git | Conda Env. Management | Reproducible Analysis  
   **Bioinformatics** - Comparative genomics | Variant calling and QC | Gene Annotation  
-  **Genetic Mapping** - Linkage map construction | QTL analysis | GWAS  
+  **Genetic Mapping** - Linkage map construction | Linkage Mapping | GWAS  
   **Image Analysis** - ImageJ (Fiji) | ImageJ Macro Language | PlantCV | OpenCV | Hyperspectral Analysis  
   **Drone Imaging** - Data acquisition and processing | Object segmentation | Feature extraction  
   **Molecular Biology** - Marker design and genotyping (SSR,KASP) | CRISPR/Cas9 gRNA design  
