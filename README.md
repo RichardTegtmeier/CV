@@ -5,9 +5,9 @@ For more information, you can view my [full CV](CV%20TegtmeierR.pdf)
 **Phone** - (+1) 914-649-2007  
 
 ## Academic Experience
-Ph.D. Cornell University Plant Breeding, minor Plant Pathology (GPA: 3.70)  
+Ph.D. Cornell University Plant Breeding, minors: Genomics, Plant Pathology (GPA: 3.70)  
 *Expected Graduation: March 2025*  
-B.S. Salve Regina University Biology, minor Music (GPA: 3.63)  
+B.S. Salve Regina University Biology, minor: Music (GPA: 3.63)  
 
 ## Skills
   **Programming** - R | Python | Bash/Shell | LaTeX | Git | Conda Env. Management | Reproducible Analysis  
