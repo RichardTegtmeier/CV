@@ -21,6 +21,7 @@ B.S. Salve Regina University Biology, minor: Music (GPA: 3.63)
   
 ## Awards and Distinctions
 Nation Association of Plant Breeders - Borlaug Scholar Award  
+Apple R&D Program Grant Funding ($50,000 awarded/year; 4 years funding)
 Cornell Plant Breeding and Genetics - Murphy Munger Award ($500 awarded)  
 USDA NIFA Predoctoral Fellowship ($120,000 awarded; 2 years funding)  
 NAPB Poster Competition Winner (2nd of 50 PhD students, $250 awarded)  
