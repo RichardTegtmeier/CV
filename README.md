@@ -1,5 +1,5 @@
 ## CV Highlights
-For more information, you can view my [full CV](CV%20TegtmeierR.pdf)  
+For more information, you can view my [full CV](CV_TegtmeierR.pdf)  
 
 **Email** - rrt48@cornell.edu  
 **Phone** - (+1) 914-649-2007  
