@@ -9,6 +9,15 @@ Ph.D. Cornell University Plant Breeding, minors: Genomics, Plant Pathology (GPA:
 *Expected Graduation: March 2025*  
 B.S. Salve Regina University Biology, minor: Music (GPA: 3.63)  
 
+## Research
+**Major Goals:** Integrate genomics, transcriptomics, and phenomics to identify novel QTL associated with fire blight (*Erwinia amylovora*) resistance from the primary progenitor species of domesticated apples
+
+ - Identified a novel moderate effect fire blight resistance QTL and developed diagnostic markers
+ - Fine mapping the novel fire blight resistance QTL and performing candidate gene selection
+ - Developed an image-analysis based leaf disc assay for rapid screening of fire blight resistance in apple and applicable to other relevant perennial tree crops
+ - Applied this leaf disc assay to a novel framework for a multi-omic BSA pipeline to accelerate QTL discovery in long-cycle tree crops
+
+
 ## Skills
   **Programming** - R | Python | Bash/Shell | LaTeX | Git | Conda Env. Management | Reproducible Analysis  
   **Bioinformatics** - Comparative genomics | Variant calling and QC | Gene Annotation  
