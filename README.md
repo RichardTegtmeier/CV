@@ -1,21 +1,21 @@
 ## CV Highlights
-For more information, you can view my [full CV](CV%20Richard%20Tegtmeier%20(2).pdf)  
+For more information, you can view my [full CV](CV%20TegtmeierR.pdf)  
 
 **Email** - rrt48@cornell.edu  
 **Phone** - (+1) 914-649-2007  
 
 ## Academic Experience
 Ph.D. Cornell University Plant Breeding, minor Plant Pathology (GPA: 3.70)  
-*Expected Graduation: Early 2025*  
+*Expected Graduation: March 2025*  
 B.S. Salve Regina University Biology, minor Music (GPA: 3.63)  
 
 ## Skills
-  **Programming** - R | Python | Unix | LaTeX | Git | Conda Env. Management | Reproducible Analysis  
+  **Programming** - R | Python | Bash/Shell | LaTeX | Git | Conda Env. Management | Reproducible Analysis  
   **Bioinformatics** - Comparative genomics | Variant calling and QC | Gene Annotation  
   **Genetic Mapping** - Linkage map construction | QTL analysis | GWAS  
   **Image Analysis** - ImageJ (Fiji) | ImageJ Macro Language | PlantCV | OpenCV | Hyperspectral Analysis  
   **Drone Imaging** - Data acquisition and processing | Object segmentation | Feature extraction  
-  **Molecular Biology** - Marker design and genotyping (SSR) | CRISPR/Cas9 gRNA design  
+  **Molecular Biology** - Marker design and genotyping (SSR,KASP) | CRISPR/Cas9 gRNA design  
   **Plant Pathology** - Bacterial inoculations | Inoculation assay design (leaf disc assay)  
   **Plant Propagation** - Tissue Culture | Greenhouse cultivation | Pollination (apple) | Grafting  
   
